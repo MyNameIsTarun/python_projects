@@ -1,1 +1,1 @@
-This repo is for all of my python projects
+This repo is for my mini python projects.
